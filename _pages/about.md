@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Qiyu Zhuang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,7 @@ I am a Ph.D. student at the School of Information, Renmin University of China. M
 
 Recent news
 ======
+- **2025.06:** TxnSails has been accepted by VLDB'25.
 - **2024.11:** GeoTP has been accepted by ICDE'25. 
 - ...
 
